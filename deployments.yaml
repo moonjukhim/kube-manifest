@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: k8s
-        image: moonjukhim/docker:95
+        image: moonjukhim/docker:96
         ports:
           - containerPort: 80
